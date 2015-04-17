@@ -1,0 +1,23 @@
+{
+  "name": "google-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfgtyurin/google-homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfgtyurin/google-homepage/issues"
+  },
+  "homepage": "https://github.com/bfgtyurin/google-homepage",
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11"
+  }
+}
